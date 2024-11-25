@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "pt.inesc.termite.msgsender.Termite-WifiP2P-MsgSender-merged_res-9:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "pt.inesc.termite.msgsender.Termite-WifiP2P-MsgSender-main-11:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "pt.inesc.termite.msgsender.Termite-WifiP2P-MsgSender-merged_res-9:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "pt.inesc.termite.msgsender.Termite-WifiP2P-MsgSender-main-11:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "pt.inesc.termite.msgsender.Termite-WifiP2P-MsgSender-merged_res-9:/layout_main.xml.flat",
+        "source": "pt.inesc.termite.msgsender.Termite-WifiP2P-MsgSender-main-11:/layout/main.xml"
+    },
+    {
+        "merged": "pt.inesc.termite.msgsender.Termite-WifiP2P-MsgSender-merged_res-9:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "pt.inesc.termite.msgsender.Termite-WifiP2P-MsgSender-main-11:/drawable-ldpi/ic_launcher.png"
+    }
+]

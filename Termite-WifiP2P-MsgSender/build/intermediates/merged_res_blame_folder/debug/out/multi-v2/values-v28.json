@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "pt.inesc.termite.msgsender.Termite-WifiP2P-MsgSender-mergeDebugResources-7:/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/home/nzinga/.gradle/caches/transforms-3/3872974fb4b45d74c4d70657fa3d5960/transformed/appcompat-v7-28.0.0/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,397",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,392,584"
+                    }
+                }
+            ]
+        }
+    ]
+}

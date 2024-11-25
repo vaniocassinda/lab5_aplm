@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "pt.inesc.termite.msgsender.Termite-WifiP2P-MsgSender-mergeDebugResources-7:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/nzinga/.gradle/caches/transforms-3/3872974fb4b45d74c4d70657fa3d5960/transformed/appcompat-v7-28.0.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

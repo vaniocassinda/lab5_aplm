@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/nzinga/.gradle/caches/transforms-4/cdb7ce143861ca7752f0b6022cab34e9/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:Termite-WifiP2P-API:] /home/nzinga/.gradle/caches/transforms-4/b1fa4698d5fd366c6cf5fd269f419212/transformed/Termite-WifiP2P-API/AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/nzinga/.gradle/caches/transforms-4/85cb78cf7c9b1cf8f8211cef1cc2a7e2/transformed/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/nzinga/.gradle/caches/transforms-4/1df5c3f6d59c315ceb69fdd444c48739/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/nzinga/.gradle/caches/transforms-4/ece6d09d6197bf1eb4111bc7480a6a5b/transformed/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/nzinga/.gradle/caches/transforms-4/7fda0f37b72f069c50142bda794568ea/transformed/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/nzinga/.gradle/caches/transforms-4/9d34fb305fdcdb8b6186397277b9aef6/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/nzinga/.gradle/caches/transforms-4/5dafeaaa096c33e6488f0f15d63d33f5/transformed/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/nzinga/.gradle/caches/transforms-4/bd4e8e1f2eea53daa63400b7d9bb8122/transformed/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/nzinga/.gradle/caches/transforms-4/ee682377d552c8540fa5cc0a1c1e0ac9/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/nzinga/.gradle/caches/transforms-4/97854d52b22f7c2b5cabe7d76a48047c/transformed/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/nzinga/.gradle/caches/transforms-4/ded32232b1db5815d4e076ec0d9c9797/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/nzinga/.gradle/caches/transforms-4/b868e68c5d7ea55a1598d991c8708b16/transformed/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/nzinga/.gradle/caches/transforms-4/a3871eb58cbf13a39769b9f501cf98f7/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/nzinga/.gradle/caches/transforms-4/777921487376e5ad592d27227487f9c7/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/nzinga/.gradle/caches/transforms-4/f8e03f897e0264e66679f336980d00b5/transformed/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nzinga/.gradle/caches/transforms-4/b03f260013c11757c2e76c6f60acdeec/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/nzinga/.gradle/caches/transforms-4/fd50c849d1129bcb0b79e3abb0a0e83e/transformed/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nzinga/.gradle/caches/transforms-4/1a4bdbe480e3f6dfc5ca878afdbfdde0/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/nzinga/.gradle/caches/transforms-4/dc3f56f43f06cfdbcf3fc3489d5c64e8/transformed/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/nzinga/.gradle/caches/transforms-4/ba87ebf379c97bec35bcd56266b6146d/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/nzinga/.gradle/caches/transforms-4/658338ba450d2e82d6f7bbe3e1b7d494/transformed/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nzinga/.gradle/caches/transforms-4/fc9f37f034351f90308e42546fac539c/transformed/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/nzinga/.gradle/caches/transforms-4/a3abbfb6f8cdcb3fd3dcd5dc60f73da2/transformed/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nzinga/.gradle/caches/transforms-4/df4ffc503bbb45b60c8f1775136cee97/transformed/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/nzinga/.gradle/caches/transforms-4/241b8d9db09cade9d7c9ae9107f45f15/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/nzinga/.gradle/caches/transforms-4/bc7ed1a72c7831d8debfc10a8706aedb/transformed/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:7:5-8:42
+INJECTED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:7:5-8:42
+INJECTED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:7:5-8:42
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/nzinga/.gradle/caches/transforms-4/cdb7ce143861ca7752f0b6022cab34e9/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/nzinga/.gradle/caches/transforms-4/cdb7ce143861ca7752f0b6022cab34e9/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:Termite-WifiP2P-API:] /home/nzinga/.gradle/caches/transforms-4/b1fa4698d5fd366c6cf5fd269f419212/transformed/Termite-WifiP2P-API/AndroidManifest.xml:7:5-9:41
+MERGED from [:Termite-WifiP2P-API:] /home/nzinga/.gradle/caches/transforms-4/b1fa4698d5fd366c6cf5fd269f419212/transformed/Termite-WifiP2P-API/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/nzinga/.gradle/caches/transforms-4/85cb78cf7c9b1cf8f8211cef1cc2a7e2/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/nzinga/.gradle/caches/transforms-4/85cb78cf7c9b1cf8f8211cef1cc2a7e2/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/nzinga/.gradle/caches/transforms-4/1df5c3f6d59c315ceb69fdd444c48739/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/nzinga/.gradle/caches/transforms-4/1df5c3f6d59c315ceb69fdd444c48739/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/nzinga/.gradle/caches/transforms-4/ece6d09d6197bf1eb4111bc7480a6a5b/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/nzinga/.gradle/caches/transforms-4/ece6d09d6197bf1eb4111bc7480a6a5b/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/nzinga/.gradle/caches/transforms-4/7fda0f37b72f069c50142bda794568ea/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/nzinga/.gradle/caches/transforms-4/7fda0f37b72f069c50142bda794568ea/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/nzinga/.gradle/caches/transforms-4/9d34fb305fdcdb8b6186397277b9aef6/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/nzinga/.gradle/caches/transforms-4/9d34fb305fdcdb8b6186397277b9aef6/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/nzinga/.gradle/caches/transforms-4/5dafeaaa096c33e6488f0f15d63d33f5/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/nzinga/.gradle/caches/transforms-4/5dafeaaa096c33e6488f0f15d63d33f5/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/nzinga/.gradle/caches/transforms-4/bd4e8e1f2eea53daa63400b7d9bb8122/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/nzinga/.gradle/caches/transforms-4/bd4e8e1f2eea53daa63400b7d9bb8122/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/nzinga/.gradle/caches/transforms-4/ee682377d552c8540fa5cc0a1c1e0ac9/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/nzinga/.gradle/caches/transforms-4/ee682377d552c8540fa5cc0a1c1e0ac9/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/nzinga/.gradle/caches/transforms-4/97854d52b22f7c2b5cabe7d76a48047c/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/nzinga/.gradle/caches/transforms-4/97854d52b22f7c2b5cabe7d76a48047c/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/nzinga/.gradle/caches/transforms-4/ded32232b1db5815d4e076ec0d9c9797/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/nzinga/.gradle/caches/transforms-4/ded32232b1db5815d4e076ec0d9c9797/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/nzinga/.gradle/caches/transforms-4/b868e68c5d7ea55a1598d991c8708b16/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/nzinga/.gradle/caches/transforms-4/b868e68c5d7ea55a1598d991c8708b16/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/nzinga/.gradle/caches/transforms-4/a3871eb58cbf13a39769b9f501cf98f7/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/nzinga/.gradle/caches/transforms-4/a3871eb58cbf13a39769b9f501cf98f7/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/nzinga/.gradle/caches/transforms-4/777921487376e5ad592d27227487f9c7/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/nzinga/.gradle/caches/transforms-4/777921487376e5ad592d27227487f9c7/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/nzinga/.gradle/caches/transforms-4/f8e03f897e0264e66679f336980d00b5/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/nzinga/.gradle/caches/transforms-4/f8e03f897e0264e66679f336980d00b5/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nzinga/.gradle/caches/transforms-4/b03f260013c11757c2e76c6f60acdeec/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nzinga/.gradle/caches/transforms-4/b03f260013c11757c2e76c6f60acdeec/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/nzinga/.gradle/caches/transforms-4/fd50c849d1129bcb0b79e3abb0a0e83e/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/nzinga/.gradle/caches/transforms-4/fd50c849d1129bcb0b79e3abb0a0e83e/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nzinga/.gradle/caches/transforms-4/1a4bdbe480e3f6dfc5ca878afdbfdde0/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nzinga/.gradle/caches/transforms-4/1a4bdbe480e3f6dfc5ca878afdbfdde0/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/nzinga/.gradle/caches/transforms-4/dc3f56f43f06cfdbcf3fc3489d5c64e8/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/nzinga/.gradle/caches/transforms-4/dc3f56f43f06cfdbcf3fc3489d5c64e8/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/nzinga/.gradle/caches/transforms-4/ba87ebf379c97bec35bcd56266b6146d/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/nzinga/.gradle/caches/transforms-4/ba87ebf379c97bec35bcd56266b6146d/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/nzinga/.gradle/caches/transforms-4/658338ba450d2e82d6f7bbe3e1b7d494/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/nzinga/.gradle/caches/transforms-4/658338ba450d2e82d6f7bbe3e1b7d494/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nzinga/.gradle/caches/transforms-4/fc9f37f034351f90308e42546fac539c/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nzinga/.gradle/caches/transforms-4/fc9f37f034351f90308e42546fac539c/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/nzinga/.gradle/caches/transforms-4/a3abbfb6f8cdcb3fd3dcd5dc60f73da2/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/nzinga/.gradle/caches/transforms-4/a3abbfb6f8cdcb3fd3dcd5dc60f73da2/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nzinga/.gradle/caches/transforms-4/df4ffc503bbb45b60c8f1775136cee97/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nzinga/.gradle/caches/transforms-4/df4ffc503bbb45b60c8f1775136cee97/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/nzinga/.gradle/caches/transforms-4/241b8d9db09cade9d7c9ae9107f45f15/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/nzinga/.gradle/caches/transforms-4/241b8d9db09cade9d7c9ae9107f45f15/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/nzinga/.gradle/caches/transforms-4/bc7ed1a72c7831d8debfc10a8706aedb/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/nzinga/.gradle/caches/transforms-4/bc7ed1a72c7831d8debfc10a8706aedb/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml
+	tools:ignore
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:8:9-39
+	android:minSdkVersion
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:7:15-41
+		INJECTED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:11:5-27:19
+INJECTED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:11:5-27:19
+MERGED from [:Termite-WifiP2P-API:] /home/nzinga/.gradle/caches/transforms-4/b1fa4698d5fd366c6cf5fd269f419212/transformed/Termite-WifiP2P-API/AndroidManifest.xml:11:5-16:19
+MERGED from [:Termite-WifiP2P-API:] /home/nzinga/.gradle/caches/transforms-4/b1fa4698d5fd366c6cf5fd269f419212/transformed/Termite-WifiP2P-API/AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/nzinga/.gradle/caches/transforms-4/f8e03f897e0264e66679f336980d00b5/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/nzinga/.gradle/caches/transforms-4/f8e03f897e0264e66679f336980d00b5/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nzinga/.gradle/caches/transforms-4/b03f260013c11757c2e76c6f60acdeec/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nzinga/.gradle/caches/transforms-4/b03f260013c11757c2e76c6f60acdeec/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:extractNativeLibs
+		INJECTED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/nzinga/.gradle/caches/transforms-4/f8e03f897e0264e66679f336980d00b5/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from [:Termite-WifiP2P-API:] /home/nzinga/.gradle/caches/transforms-4/b1fa4698d5fd366c6cf5fd269f419212/transformed/Termite-WifiP2P-API/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:12:9-45
+	android:theme
+		ADDED from [:Termite-WifiP2P-API:] /home/nzinga/.gradle/caches/transforms-4/b1fa4698d5fd366c6cf5fd269f419212/transformed/Termite-WifiP2P-API/AndroidManifest.xml:15:9-40
+activity#pt.inesc.termite.msgsender.MsgSenderActivity
+ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:17:13-45
+	android:exported
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:16:13-36
+	tools:ignore
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:18:13-42
+	android:name
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:15:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:21:27-74
+service#pt.inesc.termite.wifidirect.service.SimWifiP2pService
+ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:25:9-89
+	android:name
+		ADDED from /home/nzinga/Documentos/programming/android/Conversacional/Termite-WifiP2P-MsgSender/Termite-WifiP2P-MsgSender/src/main/AndroidManifest.xml:25:18-86
